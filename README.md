@@ -1,5 +1,5 @@
 ## 📞 Contact
-<div style="display:flex; flex-direction:row;">
+<div>
     <a href="mailto:guseob0701@naver.com">
         <img src="https://img.shields.io/badge/
         Naver Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
@@ -19,7 +19,7 @@
 </div>
 
 ## 💪 Skills
-<div style="display:flex; flex-direction:row;">
+<div>
     <img src="https://img.shields.io/badge/
         C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/
@@ -48,17 +48,3 @@
 - 2023.11~2024.04 : NAVER Connect Foundation boostcamp AI Tech 6th / Computer Vision
     - Computer Vision Study
     - boostcamp 내 경진대회 진행 (Image Classification, Object Detection, Data Centric, Segmentation)
-<!--
-**9sub/9sub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
