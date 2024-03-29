@@ -1,32 +1,32 @@
 ## 📞 Contact
 
-<div>
+<div style="display:flex; flex-direction:row;">
     <a href="mailto:guseob0701@naver.com">
-        <img src="https://img.shields.io/badge/Naver Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Naver Mail-03C75A?style=plastic&logo=Naver&logoColor=white"> 
     </a>
     <a href="mailto:guseob0702@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/gmail-EA4335?style=plastic&logo=gmail&logoColor=white"> 
     </a>
     <a href="http://qr.kakao.com/talk/WJonAmeg2toqg9Klj_j5icPS16I-">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=plastic&logoColor=black&logo=KakaoTalk"> 
     </a>
     <a href="https://www.instagram.com/9._.sub9/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"> 
     </a>
 </div>
 
 ## 💪 Skills
 
-<div>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-    <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-    <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
-    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/numpy-013243?style=plastic&logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white">
+    <img src="https://img.shields.io/badge/fastapi-009688?style=plastic&logo=fastapi&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/linux-FCC624?style=plastic&logo=linux&logoColor=white">
+    <img src="https://img.shields.io/badge/docker-2496ED?style=plastic&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white">
 </div>
 
 ## ⭐Introduce
