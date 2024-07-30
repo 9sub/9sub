@@ -34,6 +34,6 @@
     - Computer Vision 도메인 수료
     - boostcamp 내 경진대회 진행 (Image Classification, Object Detection, Data Centric, Segmentation)
     - final project로 style transfer, pose estimation 을 활용한 웹툰 어시스트 서비스 제작
-- 2024.04 ~ : 패스트 캠퍼스 삼성전자 내부교육 실습코치 (머신러닝의 이해 및 구현, Python을 활용한 데이터 시각화, 머신러닝을 위한 확률/통계, Python을 활용한 업무 자동화)
+- 2024.04 ~ : 패스트 캠퍼스 삼성전자 사내교육 실습코치 (머신러닝의 이해 및 구현, Python을 활용한 데이터 시각화, 머신러닝을 위한 확률/통계, Python을 활용한 업무 자동화)
 - 2024.07.01 ~ 2024.07.19 : SW중심대학 디지털 경진대회_SW와 생성AI의 만남 : AI 부문
 - 2024.08.05 ~ : 한국천문연구원-카이스트 천문우주 AI 경진대회
