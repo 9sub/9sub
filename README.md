@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white"><img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 </div>
 <div>
-    <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=scikit-learn&logoColor=white">
+    <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
 </div>
 
 ## ⭐Introduce
