@@ -39,7 +39,7 @@
     - Computer Vision 도메인 수료
     - boostcamp 내 경진대회 진행 (Image Classification, Object Detection, Data Centric, Segmentation)
     - final project로 style transfer, pose estimation 을 활용한 웹툰 어시스트 서비스 제작
-- 2024.04 ~ : 데이원 컴퍼니(패스트 캠퍼스) 기업교육팀 실습코치, 보조강사
+- 2024.04 ~ 2025.12 : 데이원 컴퍼니(패스트 캠퍼스) 기업교육팀 실습코치, 보조강사
     - 삼성전자 DS부문 citizen developer 과정 (2024.04 ~ )
         - 머신러닝의 이해 및 구현, 딥러닝의 이해 및 구현, Python으로 완성하는 반도체 대용량 데이터 분석 실무 등 데이터분석 관련 교육 운영
     - SK hynix 신입사원 생성형 AI 교육 (2025.01)
