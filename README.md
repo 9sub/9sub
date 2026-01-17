@@ -32,15 +32,15 @@
 
 <!-- ### 입사지원서 블라인드 양식에 따라 출신학교를 블라인드 처리 했습니다.
 -->
-- 2018~ : 세종대학교 수학통계학부 수학전공
-- 2022~ : 세종대학교 컴퓨터공학부 복수전공
+- 2018.03 ~ 2025.02 : 세종대학교 수학통계학부 수학전공
+- 2022.03 ~ 2025.02 : 세종대학교 컴퓨터공학부 복수전공
 - 2023.07~2023.10 : 42 Seoul La Piscine 및 main course
 - 2023.11~2024.04 : NAVER Connect Foundation boostcamp AI Tech 6th / Computer Vision
     - Computer Vision 도메인 수료
     - boostcamp 내 경진대회 진행 (Image Classification, Object Detection, Data Centric, Segmentation)
     - final project로 style transfer, pose estimation 을 활용한 웹툰 어시스트 서비스 제작
 - 2024.04 ~ 2025.12 : 데이원 컴퍼니(패스트 캠퍼스) 기업교육팀 실습코치, 보조강사
-    - 삼성전자 DS부문 citizen developer 과정 (2024.04 ~ )
+    - 삼성전자 DS부문 citizen developer 과정 (2024.04 ~ 2025.12)
         - 머신러닝의 이해 및 구현, 딥러닝의 이해 및 구현, Python으로 완성하는 반도체 대용량 데이터 분석 실무 등 데이터분석 관련 교육 운영
     - SK hynix 신입사원 생성형 AI 교육 (2025.01)
     - KT 미디어부문 인턴 AI 역량향상 과정 (2025.04 ~ 2025.05)
